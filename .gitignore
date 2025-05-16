@@ -1,0 +1,8 @@
+node_modules
+.venv
+.idea
+.eslintrc.json
+cdk.out
+node_modules
+**/.DS_Store
+**/package-lock.json
