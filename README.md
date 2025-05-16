@@ -19,7 +19,7 @@
 
 ## Overview
 
-This repository contains the AWS CDK code that implements backup captures and stores system metadata of the data solution built on Amazon SageMaker at regular interval. This code sample stores asset information of a data solution built on Amazon DataZone domain and Amazon SageMaker Unified Studio domain in an Amazon DynamoDB global table.
+This repository contains the AWS CDK code that captures and stores system metadata of the data solution built on Amazon SageMaker at regular interval. This code sample stores asset information of a data solution built on Amazon DataZone domain and Amazon SageMaker Unified Studio domain in an Amazon DynamoDB global table.
 
 ## Target Audience
 
